@@ -1,0 +1,70 @@
+body {
+  font-size: 14px;
+  font-family: $body-font;
+
+  .form-control, .custom-select {
+    &:focus {
+      -webkit-box-shadow: none;
+      -moz-box-shadow: none;
+      box-shadow: none;
+      border-color: #ccc;
+    }
+  }
+
+  textarea {
+    border-color: #ccc;
+
+    &:focus {
+      -webkit-box-shadow: none;
+      -moz-box-shadow: none;
+      box-shadow: none;
+      border-color: #ccc;
+      outline: none;
+    }
+  }
+
+  a {
+    color: #111;
+    @include transition(all, 0.5s, ease-in-out);
+
+    &:hover {
+      text-decoration: none;
+      color: $primary-color;
+    }
+  }
+
+  ul {
+    margin: 0;
+    padding: 0;
+
+    li {
+      list-style-type: none;
+    }
+  }
+
+  button {
+    &:focus {
+      -webkit-box-shadow: none;
+      -moz-box-shadow: none;
+      box-shadow: none;
+      outline: none;
+    }
+
+    &:active {
+      -webkit-box-shadow: none;
+      -moz-box-shadow: none;
+      box-shadow: none;
+    }
+  }
+
+  .btn {
+    &:focus {
+      -webkit-box-shadow: none;
+      -moz-box-shadow: none;
+      box-shadow: none;
+      outline: none;
+    }
+  }
+
+}
+

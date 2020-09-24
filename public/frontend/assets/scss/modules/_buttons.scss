@@ -1,0 +1,14 @@
+.btn-global {
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  background: $primary-color;
+  color: #ffffffff;
+  @include border-radius(0);
+  letter-spacing: 1px;
+  padding: 10px 30px;
+
+  &:hover {
+    color: #ffffff;
+  }
+}

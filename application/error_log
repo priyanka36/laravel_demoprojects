@@ -1,0 +1,5 @@
+[30-Jan-2019 06:44:20 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/democapital/public_html/hyundai/application/vendor/symfony/var-dumper/Resources/functions/dump.php on line 18
+[30-Jan-2019 06:46:49 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/democapital/public_html/hyundai/application/vendor/symfony/var-dumper/Resources/functions/dump.php on line 18
+[30-Jan-2019 06:51:02 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/democapital/public_html/hyundai/application/vendor/symfony/var-dumper/Resources/functions/dump.php on line 18
+[30-Jan-2019 06:52:22 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/democapital/public_html/hyundai/application/vendor/symfony/var-dumper/Resources/functions/dump.php on line 18
+[30-Jan-2019 06:53:24 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/democapital/public_html/hyundai/application/vendor/symfony/var-dumper/Resources/functions/dump.php on line 18

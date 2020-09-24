@@ -1,0 +1,76 @@
+.footer-wrapper {
+  background: #fff3eb;
+  padding: 40px 0;
+}
+
+.footer-logo {
+  img {
+    height: 50px;
+  }
+}
+
+.footer-about {
+  p {
+    margin: 10px 0;
+    font-size: 13px;
+  }
+}
+
+.footer-header {
+  h4 {
+    font-size: 16px;
+    font-weight: 500;
+    color: #656565;
+    margin-bottom: 15px;
+  }
+}
+
+.footer-content {
+  ul {
+    li {
+      margin-bottom: 8px;
+    }
+  }
+}
+
+.footer-social {
+  margin-top: 15px;
+
+  ul {
+    li {
+      display: inline-block;
+
+      a {
+        display: inline-block;
+        height: 25px;
+        width: 25px;
+        color: #fff;
+        line-height: 25px;
+        text-align: center;
+        margin: 0 3px;
+      }
+
+      .facebook-icon {
+        background: #3b5999;
+      }
+
+      .twitter-icon {
+        background: #1da1f3;
+      }
+
+      .insta-icon {
+        background: #f46232;
+      }
+	  .linked-icon{
+	   background: #0077b5
+	  }
+    }
+  }
+}
+
+.footer-btm {
+  text-align: center;
+  background: #fbeadf;
+  padding: 15px;
+  font-size: 13px;
+}

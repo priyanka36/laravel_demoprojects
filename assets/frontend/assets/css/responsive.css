@@ -1,0 +1,204 @@
+@media (max-width: 991px) {
+    .navbar-light .navbar-toggler {
+        background: #ffffff;
+        -webkit-border-radius: 0;
+        -moz-border-radius: 0;
+        border-radius: 0;
+        border: 0;
+    }
+
+    .main-nav .dropdown-menu {
+        margin: 8px 0;
+    }
+
+    .banner-wrapper .carousel-item img {
+        height: 25rem;
+    }
+
+    .page-wrapper {
+        padding: 40px 0;
+    }
+
+    .page-header {
+        margin-bottom: 30px;
+    }
+
+    .footer-content {
+        margin: 10px 0;
+    }
+
+    .inner-page-wrapper {
+        padding: 40px 0;
+    }
+
+    .key-note-body {
+        margin: 0;
+        padding: 30px;
+    }
+
+    .team-card-main {
+        height: 450px;
+    }
+
+    .single-pdt-img {
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width: 767px) {
+    .top-right {
+        display: none;
+    }
+
+    .top-left {
+        text-align: center;
+    }
+
+    .main-nav .navbar-brand {
+        line-height: 3rem;
+    }
+
+    .main-nav .nav-logo {
+        max-width: 100px;
+    }
+
+    .main-nav .navbar-nav .nav-item {
+        padding-left: 0;
+    }
+
+    .banner-wrapper .carousel-item img {
+        height: 15rem;
+
+    }
+
+    .page-wrapper {
+        padding: 20px 0;
+    }
+
+    .page-header h4 {
+        font-size: 20px;
+    }
+
+    .page-header p {
+        font-size: 20px;
+    }
+
+    .page-header h2 {
+        font-size: 18px;
+    }
+
+    .product-box {
+        padding: 0;
+        margin: 15px 0;
+    }
+
+    .product-box-desc {
+        position: static;
+        -webkit-box-shadow: 1px 12px 9px -4px rgba(0, 0, 0, 0.3);
+        -moz-box-shadow: 1px 12px 9px -4px rgba(0, 0, 0, 0.3);
+        box-shadow: 1px 12px 9px -4px rgba(0, 0, 0, 0.3);
+    }
+
+    .product-box:after {
+        bottom: 0;
+        width: 100%;
+    }
+
+    .item-box h3 {
+        font-size: 28px;
+        margin-bottom: 10px;
+    }
+
+    .footer-product, .footer-links {
+        -webkit-column-count: 2;
+        -moz-column-count: 2;
+        column-count: 2;
+    }
+
+    .footer-wrapper {
+        padding: 15px 0;
+    }
+
+    .inner-page-title h4 {
+        font-size: 18px;
+    }
+
+    .global-header-in h4 {
+        font-size: 16px;
+        margin-bottom: 8px;
+    }
+
+    .row-divider {
+        margin-top: 10px;
+    }
+
+    .key-note-body {
+        padding: 15px;
+    }
+
+    .team-card-main {
+        margin: 10px 0;
+    }
+
+    .inner-page-wrapper {
+        padding: 30px 0;
+    }
+
+    .product-details-wrapper .item-box p {
+        padding: 0;
+        line-height: 23px;
+        font-size: 13px;
+    }
+
+    .pdt-row .product-details-wrapper {
+        margin-top: 15px;
+        padding-top: 15px;
+    }
+
+    .inner-title-bordered h3 {
+        font-size: 18px;
+    }
+
+    .arc-event-desc h3 {
+        font-size: 18px;
+    }
+
+    .arc-event-desc ul li {
+        line-height: 25px;
+    }
+
+    .single-pdt-header p {
+        font-size: 14px;
+    }
+
+    .event-more-info {
+        margin-top: 0;
+    }
+
+    .event-more-info ul li {
+        margin: 4px 0;
+    }
+
+    .single-event-wrapper {
+        -webkit-column-count: 2;
+        -moz-column-count: 2;
+        column-count: 2;
+    }
+
+    .single-event-image {
+        margin-bottom: 10px;
+    }
+
+    .contact-form-holder {
+        margin-bottom: 20px;
+    }
+    .team-card-main {
+        height: 400px;
+    }
+}
+
+@media (min-width: 390px) and (max-width: 767px) {
+    .team-card-main {
+        height: 650px;
+    }
+}
